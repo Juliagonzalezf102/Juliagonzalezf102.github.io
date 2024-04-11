@@ -1,4 +1,3 @@
-# Juliagonzalezf102.github.io
 # Hello, I'm [Julia]
 
 Welcome to my GitHub profile!
