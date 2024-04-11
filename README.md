@@ -1,6 +1,4 @@
-# Hello, I'm Julia
-
-Welcome to my GitHub profile!
+# Hello, I'm Julia, Welcome to my GitHub profile!
 
 ## About Me
 
