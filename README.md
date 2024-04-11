@@ -1,4 +1,4 @@
-# Hello, I'm [Julia]
+# Hello, I'm Julia
 
 Welcome to my GitHub profile!
 
