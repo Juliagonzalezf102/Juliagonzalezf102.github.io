@@ -19,7 +19,7 @@ I'm a hard-working, optimistic, and ambitious professional passionate about data
 
 - Description: In this project we aim at exploring the potential influence of amazon's self-brand products on search ranking position. Using and API, we perform 20 different product searches and scrape all listings obtained, its characteristics (i.e, price, sponsored product indicator, rating, etc) as well as it reviews. We perform minimal preprocessing and data cleansing as well as sentiment analysis on user reviews and add the obtained polarity score as a regressor. We perform two linear regressions, using either rating or polarity score and we compare in both cases the significant coefficients of Amazon brand product and sponsored products dummy variables and draw conclusions. 
 
-- Link: [Link to the project repository or live demo]
+- Link: [[Link to the project repository or live demo]](https://github.com/Juliagonzalezf102/Amazon-preferential-treatment-to-its-own-brands-over-competing-brands.git)
 
 ### Project 3: [Hospital Length of Stay Prediction using Neural Networks and Ensembling Techniques]
 
