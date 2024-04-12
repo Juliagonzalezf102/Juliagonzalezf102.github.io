@@ -25,7 +25,7 @@ I'm a hard-working, optimistic, and ambitious professional passionate about data
 
 - Description: The objective is to optimize the MSE of the prediction of Length of Stay ('LOS') in a ICU based on patient-related characteristics such as vital signs (i.e., HeartRate, SysBP,etc) diagnosis and comorbidities, and personnel data (i.e., age, ethnicity, etc). For such, minimal preprocessing and feature engineering is performed. Prediction techniques used are Neural Networks using Keras library and ensembling techniques such as stacking, blending and subsembling.
 
-- Link: [Link to the project repository or live demo]
+- Link: [[Link to the project repository or live demo]](https://github.com/Juliagonzalezf102/Hospital-Length-of-Stay-Prediction-using-Neural-Networks-and-Ensembling-Techniques.git)
 
 ### Project 4: [Death Prediction using KNN and SVM classifiers]
 
