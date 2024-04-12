@@ -31,7 +31,7 @@ I'm a hard-working, optimistic, and ambitious professional passionate about data
 
 - Description: The objective is to optimize the accuracy of prediction of death of patients in a ICU. Data is patient-related characteristics such as vital signs (i.e., HeartRate, SysBP,etc) diagnosis and comorbidities, and personnel data (i.e., age, ethnicity, etc). For such, minimal preprocessing and feature engineering is performed. Prediction techniques used are KNN and SVM classifiers.
 
-- Link: [Link to the project repository or live demo]
+- Link: [[Link to the project repository or live demo]](https://github.com/Juliagonzalezf102/Death-Rate-Prediction-using-KNN-and-SVM-Classifier.git)
 
 ## Contact Me
 
